@@ -1,0 +1,8 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbproject/private/
+*.class
+# Archives
+*.rar
+*.zip
